@@ -1,0 +1,40 @@
+#main { background-color: #c0c0c0; 
+    color: black;
+}
+
+.width {
+    width:600px;
+    margin: auto;
+    text-align: left;
+}
+
+#title { display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.highlight{ align-items: baseline;
+}
+
+#img-div { background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#image {justify-content: center;
+    align-items: center;
+}
+
+#img-caption { justify-content: center;
+    align-items: baseline;
+}
+
+#tribute-info { display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#tribute-link { color: blue;
+}
